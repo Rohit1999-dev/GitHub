@@ -2,3 +2,11 @@
  -- jwt token..
  -- ejs..
  -- library which we used in express js
+
+ -- 'npm init'  for initialise the packages.json file 
+ -- 'npm install -g express-generator' for creating the complete skeleton/structure of project 
+
+
+ -- https://www.twilio.com/blog/4-tools-for-web-scraping-in-node-js  link for scrape the data by the javascript
+
+ -- https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9  for learning express js
