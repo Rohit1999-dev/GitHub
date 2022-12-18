@@ -6,6 +6,7 @@
  -- 'npm init'  for initialise the packages.json file 
  -- 'npm install -g express-generator' for creating the complete skeleton/structure of project 
 
+ -- use of given parameter req, res, next in express js
 
  -- https://www.twilio.com/blog/4-tools-for-web-scraping-in-node-js  link for scrape the data by the javascript
 

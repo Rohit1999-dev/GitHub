@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abhinav7332/GitHub/issues"
   },
-  "homepage": "https://github.com/abhinav7332/GitHub#readme"
+  "homepage": "https://github.com/abhinav7332/GitHub#readme",
+  "dependencies": {
+    "express-app-generator": "^1.0.6"
+  }
 }
