@@ -1,9 +1,17 @@
-console.log("about git !");
-// github is one of the best platform where you deployed your project & keep shared safe.
-var github = 'yes I want learn';
+const express = require('express');
+const app = express();
+const bodyParser = require('body-parser');
+var mysql = require('mysql');
+// Configuring body parser middleware
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+const port = 3000;
 
-if(github == 'yes I want learn'){
-    console.log('hurrah !');
-}else{
-    console.log('oh set !');
-}
+
+app.get('/', (req, res) => {
+    res.send(`Hello, I am express js..`);
+});
+
+app.listen(port, ()=>{
+    console.log(`server running on ${port} !`);
+});

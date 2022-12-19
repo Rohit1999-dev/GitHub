@@ -1,4 +1,6 @@
  -- install express
+ Defination: Express is a back-end web application framework of node js, 
+ and with the help of express, we can create an API very easily.
  -- jwt token..
  -- ejs..
  -- library which we used in express js
